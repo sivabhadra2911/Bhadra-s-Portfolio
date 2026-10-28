@@ -32,7 +32,7 @@ export const portfolio = {
   resumeUrl: "/resume.pdf" as string | null,
   email: "sivanibhadra@gmail.com" as string | null,
   github: "https://github.com/sivabhadra2911" as string | null,
-  linkedin: "https://linkedin.com/in/siva-bhadra/" as string | null,
+  linkedin: "https://www.linkedin.com/in/siva-bhadra-9620a925b/" as string | null,
   location: "Bangalore, Karnataka" as string | null,
   availability: "Full-stack systems & backend engineering" as string | null,
   projects: [
